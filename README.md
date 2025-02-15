@@ -4,9 +4,8 @@
   <a href="https://github.com/ALAN-MS-SU/ALAN-MS-SU" >
    <p align="center"> 
   <img  height="200em"  src="https://github-readme-stats.vercel.app/api?username=ALAN-MS-SU&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&bg_color=0,8A0AFF,006DFF&title_color=FFF&text_color=FFF&icon_color=FFF&hide_border=true&border_radius=5&rank_icon=github"> 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ALAN-MS-SU&border_radius=5&card_width=478.98&card_height=200&background=0%2C006DFF%2C8A0AFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_total_contributions=true" alt="GitHub Streak" /></a>
-     </p> 
-  </a>
+<img src="https://streak-stats.demolab.com?user=ALAN-MS-SU&border_radius=5&card_width=478.98&card_height=200&background=0%2C006DFF%2C8A0AFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_total_contributions=true" alt="GitHub Streak" /></a>
+  </p> 
 </div> 
 <h3 align="center">My skills</h3>
 <table align="center" >
