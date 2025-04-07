@@ -40,7 +40,7 @@
 
 <h1 align="center">Learning more</h1>
 <p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,postgresql,reactnative" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,postgresql,reactnative,linux" />
 </p>
 <h2>Contact</h3>
 <a target="blanck" href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
