@@ -22,7 +22,7 @@
     </tr>
     <tr>
       <td>
-       <img  src="https://go-skill-icons.vercel.app/api/icons?i=react,ts,api,nextjs" />
+       <img  src="https://go-skill-icons.vercel.app/api/icons?i=react,ts,api,nextjs,reactnative" />
       </td>
     </tr>
     <tr>
@@ -32,7 +32,7 @@
     </tr>
     <tr>
       <td>
-      <img  src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,git,github" />
+      <img  src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,git,github,linux" />
       </td>  
     </tr>
   </tbody>
@@ -40,7 +40,7 @@
 
 <h1 align="center">Learning more</h1>
 <p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,reactnative,linux" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet" />
 </p>
 <h2>Contact</h3>
 <a target="blanck" href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
