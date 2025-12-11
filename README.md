@@ -1,5 +1,5 @@
 <h1 align="center"><strong>Alan Martins</strong></h1>
-<h3 align="center"><strong>Back-End developer</strong></h3>
+<h3 align="center"><strong>Full-Stack developer</strong></h3>
 <div>
   <a href="https://github.com/ALAN-MS-SU/ALAN-MS-SU" >
    <p align="center"> 
