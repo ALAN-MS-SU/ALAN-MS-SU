@@ -25,11 +25,6 @@
     </tr>
   </tbody>
 </table>
-
-<h1 align="center">Learning more</h1>
-<p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=java" />
-</p>
 <h2>Contact</h3>
 <a target="blanck" href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <p>Email: <a href="mailto:origin28baker@outlook.com" target="blanck">origin28baker@outlook.com</a></p>
