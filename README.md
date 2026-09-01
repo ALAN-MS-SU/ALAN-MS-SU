@@ -10,7 +10,7 @@ Desenvolvedor Full-Stack focado na construção de aplicações web, APIs e sist
 
 ### Front-end
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
 ### Back-end
@@ -20,7 +20,7 @@ Desenvolvedor Full-Stack focado na construção de aplicações web, APIs e sist
 
 ### Banco de dados & ferramentas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,git,github,linux,docker" />
 </p>
 
 ---
